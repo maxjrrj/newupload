@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="136" viewBox="0 0 136 136">
+  <g id="icon_" data-name="icon]" transform="translate(-133 -46)">
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="96.167" height="96.167" transform="translate(133 114) rotate(-45)" fill="#fff"/>
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(152.917 162.083) rotate(-90)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="96.167" height="96.167" stroke="none"/>
+      <rect x="1" y="1" width="94.167" height="94.167" fill="none"/>
+    </g>
+    <path id="Icon_material-mail" data-name="Icon material-mail" d="M46.2,6H7.8a4.794,4.794,0,0,0-4.776,4.8L3,39.6a4.814,4.814,0,0,0,4.8,4.8H46.2A4.814,4.814,0,0,0,51,39.6V10.8A4.814,4.814,0,0,0,46.2,6Zm0,9.6L27,27.6,7.8,15.6V10.8L27,22.8l19.2-12Z" transform="translate(174 88.8)"/>
+  </g>
+</svg>

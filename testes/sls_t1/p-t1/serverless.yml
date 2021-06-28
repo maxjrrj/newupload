@@ -1,0 +1,25 @@
+org: maxadsjr
+app: p-t1
+service: p-t1
+
+frameworkVersion: '2'
+
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  region: sa-east-1
+  lambdaHashingVersion: 20201221
+
+
+functions:
+  hello:
+    handler: handler.hello
+    description: My first lambda example
+    events:
+      - http:
+          path: /
+          method: get
+          cors: true
+plugins:
+  - serverless-offline

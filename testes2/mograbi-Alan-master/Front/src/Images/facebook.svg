@@ -1,0 +1,12 @@
+<svg id="facebook" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="none" stroke="#fff" stroke-width="2">
+    <rect width="48" height="48" rx="24" stroke="none"/>
+    <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+  </g>
+  <g id="Icon_" data-name="Icon " transform="translate(10.667 10.667)">
+    <rect id="Area_ICON:feather_facebook_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/facebook][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="26" height="26" transform="translate(0.333 0.333)" fill="rgba(253,73,198,0.35)" opacity="0"/>
+    <g id="Icon" transform="translate(7.777 2.223)">
+      <path id="Path" d="M18.056,1.667H14.722A5.556,5.556,0,0,0,9.166,7.222v3.333H5.833V15H9.166v8.888h4.445V15h3.333l1.111-4.445H13.612V7.222a1.111,1.111,0,0,1,1.111-1.111h3.333Z" transform="translate(-5.833 -1.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+    </g>
+  </g>
+</svg>

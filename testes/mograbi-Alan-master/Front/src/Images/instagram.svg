@@ -1,0 +1,14 @@
+<svg id="insta" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="none" stroke="#fff" stroke-width="2">
+    <rect width="48" height="48" rx="24" stroke="none"/>
+    <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+  </g>
+  <g id="Icon_" data-name="Icon " transform="translate(14 14)">
+    <rect id="Area_ICON:feather_instagram_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/instagram][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="20" height="20" fill="rgba(253,73,198,0.35)" opacity="0"/>
+    <g id="Icon" transform="translate(1.667 1.667)">
+      <rect id="Rect" width="16.667" height="16.667" rx="5" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      <path id="Path" d="M13.333,9.475a3.333,3.333,0,1,1-2.808-2.808A3.333,3.333,0,0,1,13.333,9.475Z" transform="translate(-1.667 -1.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      <line id="Line" x2="0.008" transform="translate(12.917 3.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+    </g>
+  </g>
+</svg>
